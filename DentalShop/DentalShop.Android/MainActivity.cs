@@ -119,14 +119,10 @@ namespace DentalShop.Droid
         }
         private void Register()
         {
-            if (Receiver == null)
-            {
-                Receiver = new MyReciever();
-                RegisterReceiver(Receiver, new IntentFilter("com.alr.text"));
-                if (!DentalServices.IsRunning)
-                    StartService(new Intent(this, typeof(DentalServices)));
-            }
+            if (!DentalServices.IsRunning)
+                StartService(new Intent(this, typeof(DentalServices)));
         }
+
         protected override void OnDestroy()
         {
             base.OnDestroy();

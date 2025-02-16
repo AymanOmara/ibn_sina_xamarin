@@ -1,0 +1,295 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <ApplicationIcon />
+    <Win32Resource />
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Avilable.png" />
+    <None Remove="back.png" />
+    <None Remove="background.png" />
+    <None Remove="bag.png" />
+    <None Remove="BlueBackground.png" />
+    <None Remove="BlueCheckbox.png" />
+    <None Remove="BlueRight.png" />
+    <None Remove="button.png" />
+    <None Remove="car.png" />
+    <None Remove="checkbox.png" />
+    <None Remove="Circle.png" />
+    <None Remove="close.png" />
+    <None Remove="ControlPanel.png" />
+    <None Remove="correction.png" />
+    <None Remove="DefaultPhoto.png" />
+    <None Remove="Details.png" />
+    <None Remove="Device.png" />
+    <None Remove="Discount.png" />
+    <None Remove="DiscountPrice.png" />
+    <None Remove="Down.png" />
+    <None Remove="edit-icon.png" />
+    <None Remove="edit.png" />
+    <None Remove="email-icon.png" />
+    <None Remove="Equipment.png" />
+    <None Remove="ExitIcon.png" />
+    <None Remove="eye-icon.png" />
+    <None Remove="FavoriteHaert.png" />
+    <None Remove="FavoritesLogo.png" />
+    <None Remove="GrayHeart.png" />
+    <None Remove="heart.png" />
+    <None Remove="home-icon.png" />
+    <None Remove="Images\Avilable.png" />
+    <None Remove="Images\back.png" />
+    <None Remove="Images\background.png" />
+    <None Remove="Images\bag.png" />
+    <None Remove="Images\BlueBackground.png" />
+    <None Remove="Images\BlueCheckbox.png" />
+    <None Remove="Images\BlueRight.png" />
+    <None Remove="Images\button.png" />
+    <None Remove="Images\button2.png" />
+    <None Remove="Images\car.png" />
+    <None Remove="Images\checkbox.png" />
+    <None Remove="Images\Circle.png" />
+    <None Remove="Images\close.png" />
+    <None Remove="Images\Clothes.png" />
+    <None Remove="Images\ControlPanel.png" />
+    <None Remove="Images\correction.png" />
+    <None Remove="Images\DefaultPhoto.png" />
+    <None Remove="Images\Details.png" />
+    <None Remove="Images\Device.png" />
+    <None Remove="Images\Discount.png" />
+    <None Remove="Images\DiscountPrice.png" />
+    <None Remove="Images\Down.png" />
+    <None Remove="Images\edit-icon.png" />
+    <None Remove="Images\edit.png" />
+    <None Remove="Images\email-icon.png" />
+    <None Remove="Images\Equipment.png" />
+    <None Remove="Images\ExitIcon.png" />
+    <None Remove="Images\eye-icon.png" />
+    <None Remove="Images\face.png" />
+    <None Remove="Images\FavoriteHaert.png" />
+    <None Remove="Images\FavoritesLogo.png" />
+    <None Remove="Images\Files.png" />
+    <None Remove="Images\GrayHeart.png" />
+    <None Remove="Images\heart.png" />
+    <None Remove="Images\home-icon.png" />
+    <None Remove="Images\left-pointer.png" />
+    <None Remove="Images\loading.png" />
+    <None Remove="Images\Loginbackground.png" />
+    <None Remove="Images\logo.png" />
+    <None Remove="Images\logout-icon.png" />
+    <None Remove="Images\Machines.png" />
+    <None Remove="Images\MainTitle.png" />
+    <None Remove="Images\map.png" />
+    <None Remove="Images\materials.png" />
+    <None Remove="Images\message.png" />
+    <None Remove="Images\mobile-icon.png" />
+    <None Remove="Images\Notifcation.png" />
+    <None Remove="Images\OrangeBackground.png" />
+    <None Remove="Images\OrangeBag.png" />
+    <None Remove="Images\Orangebutton.png" />
+    <None Remove="Images\orders.png" />
+    <None Remove="Images\Panner.png" />
+    <None Remove="Images\pass-icon.png" />
+    <None Remove="Images\phone-icon.png" />
+    <None Remove="Images\rectangle-prduct-name.png" />
+    <None Remove="Images\RedHeart.png" />
+    <None Remove="Images\right-pointer.png" />
+    <None Remove="Images\Rightcheckbox.png" />
+    <None Remove="Images\RightIcon.png" />
+    <None Remove="Images\SearchIcon.png" />
+    <None Remove="Images\separating-line.png" />
+    <None Remove="Images\setting.png" />
+    <None Remove="Images\slider-left-pointer.png" />
+    <None Remove="Images\slider-right-pointer.png" />
+    <None Remove="Images\small-user-icon.png" />
+    <None Remove="Images\Splash.png" />
+    <None Remove="Images\student.png" />
+    <None Remove="Images\time-from.png" />
+    <None Remove="Images\time-to.png" />
+    <None Remove="Images\Title_1.png" />
+    <None Remove="Images\Title_2.png" />
+    <None Remove="Images\Title_3.png" />
+    <None Remove="Images\Title_4.png" />
+    <None Remove="Images\Title_5.png" />
+    <None Remove="Images\Title_6.png" />
+    <None Remove="Images\Title_7.png" />
+    <None Remove="Images\Title_8.png" />
+    <None Remove="Images\transparent-rectangle-over-background.png" />
+    <None Remove="Images\Up.png" />
+    <None Remove="Images\user.png" />
+    <None Remove="Images\Whats.png" />
+    <None Remove="Images\whiteback.png" />
+    <None Remove="Images\WhiteBag.png" />
+    <None Remove="Images\WhiteButton.png" />
+    <None Remove="Images\WihteBox.png" />
+    <None Remove="left-pointer.png" />
+    <None Remove="loading.png" />
+    <None Remove="Loginbackground.png" />
+    <None Remove="logo.png" />
+    <None Remove="logout-icon.png" />
+    <None Remove="Machines.png" />
+    <None Remove="MainTitle.png" />
+    <None Remove="map.png" />
+    <None Remove="materials.png" />
+    <None Remove="message.png" />
+    <None Remove="mobile-icon.png" />
+    <None Remove="Notifcation.png" />
+    <None Remove="OrangeBackground.png" />
+    <None Remove="OrangeBag.png" />
+    <None Remove="Orangebutton.png" />
+    <None Remove="orders.png" />
+    <None Remove="Panner.png" />
+    <None Remove="pass-icon.png" />
+    <None Remove="phone-icon.png" />
+    <None Remove="rectangle-prduct-name.png" />
+    <None Remove="RedHeart.png" />
+    <None Remove="right-pointer.png" />
+    <None Remove="Rightcheckbox.png" />
+    <None Remove="RightIcon.png" />
+    <None Remove="SearchIcon.png" />
+    <None Remove="setting.png" />
+    <None Remove="slider-left-pointer.png" />
+    <None Remove="slider-right-pointer.png" />
+    <None Remove="small-user-icon.png" />
+    <None Remove="Splash.png" />
+    <None Remove="student.png" />
+    <None Remove="time-from.png" />
+    <None Remove="time-to.png" />
+    <None Remove="Title_1.png" />
+    <None Remove="Title_2.png" />
+    <None Remove="Title_3.png" />
+    <None Remove="Title_4.png" />
+    <None Remove="Title_5.png" />
+    <None Remove="Title_6.png" />
+    <None Remove="transparent-rectangle-over-background.png" />
+    <None Remove="Up.png" />
+    <None Remove="user.png" />
+    <None Remove="whiteback.png" />
+    <None Remove="WhiteBag.png" />
+    <None Remove="WhiteButton.png" />
+    <None Remove="WihteBox.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Images\Avilable.png" />
+    <EmbeddedResource Include="Images\back.png" />
+    <EmbeddedResource Include="Images\background.png" />
+    <EmbeddedResource Include="Images\bag.png" />
+    <EmbeddedResource Include="Images\BlueBackground.png" />
+    <EmbeddedResource Include="Images\BlueCheckbox.png" />
+    <EmbeddedResource Include="Images\BlueRight.png" />
+    <EmbeddedResource Include="Images\button.png" />
+    <EmbeddedResource Include="Images\button2.png" />
+    <EmbeddedResource Include="Images\car.png" />
+    <EmbeddedResource Include="Images\checkbox.png" />
+    <EmbeddedResource Include="Images\Circle.png" />
+    <EmbeddedResource Include="Images\close.png" />
+    <EmbeddedResource Include="Images\Clothes.png" />
+    <EmbeddedResource Include="Images\ControlPanel.png" />
+    <EmbeddedResource Include="Images\correction.png" />
+    <EmbeddedResource Include="Images\DefaultPhoto.png" />
+    <EmbeddedResource Include="Images\Details.png" />
+    <EmbeddedResource Include="Images\Device.png" />
+    <EmbeddedResource Include="Images\Discount.png" />
+    <EmbeddedResource Include="Images\DiscountPrice.png" />
+    <EmbeddedResource Include="Images\Down.png" />
+    <EmbeddedResource Include="Images\edit-icon.png" />
+    <EmbeddedResource Include="Images\edit.png" />
+    <EmbeddedResource Include="Images\email-icon.png" />
+    <EmbeddedResource Include="Images\Equipment.png" />
+    <EmbeddedResource Include="Images\ExitIcon.png" />
+    <EmbeddedResource Include="Images\eye-icon.png" />
+    <EmbeddedResource Include="Images\face.png" />
+    <EmbeddedResource Include="Images\FavoriteHaert.png" />
+    <EmbeddedResource Include="Images\FavoritesLogo.png" />
+    <EmbeddedResource Include="Images\Files.png" />
+    <EmbeddedResource Include="Images\GrayHeart.png" />
+    <EmbeddedResource Include="Images\heart.png" />
+    <EmbeddedResource Include="Images\home-icon.png" />
+    <EmbeddedResource Include="Images\left-pointer.png" />
+    <EmbeddedResource Include="Images\loading.png" />
+    <EmbeddedResource Include="Images\Loginbackground.png" />
+    <EmbeddedResource Include="Images\logo.png" />
+    <EmbeddedResource Include="Images\logout-icon.png" />
+    <EmbeddedResource Include="Images\Machines.png" />
+    <EmbeddedResource Include="Images\MainTitle.png" />
+    <EmbeddedResource Include="Images\map.png" />
+    <EmbeddedResource Include="Images\materials.png" />
+    <EmbeddedResource Include="Images\message.png" />
+    <EmbeddedResource Include="Images\mobile-icon.png" />
+    <EmbeddedResource Include="Images\Notifcation.png" />
+    <EmbeddedResource Include="Images\OrangeBackground.png" />
+    <EmbeddedResource Include="Images\OrangeBag.png" />
+    <EmbeddedResource Include="Images\Orangebutton.png" />
+    <EmbeddedResource Include="Images\orders.png" />
+    <EmbeddedResource Include="Images\Panner.png" />
+    <EmbeddedResource Include="Images\pass-icon.png" />
+    <EmbeddedResource Include="Images\phone-icon.png" />
+    <EmbeddedResource Include="Images\rectangle-prduct-name.png" />
+    <EmbeddedResource Include="Images\RedHeart.png" />
+    <EmbeddedResource Include="Images\right-pointer.png" />
+    <EmbeddedResource Include="Images\Rightcheckbox.png" />
+    <EmbeddedResource Include="Images\RightIcon.png" />
+    <EmbeddedResource Include="Images\SearchIcon.png" />
+    <EmbeddedResource Include="Images\separating-line.png" />
+    <EmbeddedResource Include="Images\setting.png" />
+    <EmbeddedResource Include="Images\slider-left-pointer.png" />
+    <EmbeddedResource Include="Images\slider-right-pointer.png" />
+    <EmbeddedResource Include="Images\small-user-icon.png" />
+    <EmbeddedResource Include="Images\Splash.png" />
+    <EmbeddedResource Include="Images\student.png" />
+    <EmbeddedResource Include="Images\time-from.png" />
+    <EmbeddedResource Include="Images\time-to.png" />
+    <EmbeddedResource Include="Images\Title_1.png" />
+    <EmbeddedResource Include="Images\Title_2.png" />
+    <EmbeddedResource Include="Images\Title_3.png" />
+    <EmbeddedResource Include="Images\Title_4.png" />
+    <EmbeddedResource Include="Images\Title_5.png" />
+    <EmbeddedResource Include="Images\Title_6.png" />
+    <EmbeddedResource Include="Images\Title_7.png" />
+    <EmbeddedResource Include="Images\Title_8.png" />
+    <EmbeddedResource Include="Images\transparent-rectangle-over-background.png" />
+    <EmbeddedResource Include="Images\Up.png" />
+    <EmbeddedResource Include="Images\user.png" />
+    <EmbeddedResource Include="Images\Whats.png" />
+    <EmbeddedResource Include="Images\whiteback.png" />
+    <EmbeddedResource Include="Images\WhiteBag.png" />
+    <EmbeddedResource Include="Images\WhiteButton.png" />
+    <EmbeddedResource Include="Images\WihteBox.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
+    <PackageReference Include="Plugin.LocalNotification" Version="5.2.0" />
+    <PackageReference Include="Rg.Plugins.Popup" Version="1.2.0.223" />
+    <PackageReference Include="System.Net.Http" Version="4.1.0" />
+    <PackageReference Include="Xamarin.Forms" Version="4.5.0.396" />
+    <PackageReference Include="XLabs.Core" Version="2.0.5782" />
+    <PackageReference Include="XLabs.Forms" Version="2.0.5782" />
+    <PackageReference Include="XLabs.IoC" Version="2.0.5782" />
+    <PackageReference Include="XLabs.Platform" Version="2.0.5782" />
+    <PackageReference Include="XLabs.Serialization" Version="2.0.5782" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Interfaces\" />
+    <Folder Include="Modesl\" />
+    <Folder Include="Views\" />
+  </ItemGroup>
+</Project>
